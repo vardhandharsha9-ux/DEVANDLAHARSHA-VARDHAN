@@ -1,0 +1,9 @@
+{
+  "name": "Sathwika Travels & Tourism",
+  "description": "Explore More. Travel Smarter. Create Memories. Premium travel platform for destination discovery, trip planning, hotel & travel bookings, food ordering, live GPS, nearby facilities and AI assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
